@@ -12,16 +12,10 @@ A clean, mobile-friendly personal portfolio to showcase your projects and contac
 ## Technologies Used
 - HTML, CSS (Flexbox)
 
-## Screenshot
-![Portfolio Screenshot](screenshots/portfolio.png)
+Author
+Created by Sheila Demonteverde  
+Junior Software Engineering Student at Penn State World Campus
 
-## Setup
-1. Replace `your-photo.jpg` with your own image
-2. Update content in `index.html`
-3. Open in browser or deploy to GitHub Pages
-
-## Live Demo
-[View Live](#)
 
 ## 📁 Project Structure
 responsive-portfolio/
